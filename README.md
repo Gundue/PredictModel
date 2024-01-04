@@ -1,1 +1,5 @@
-# PredictModel
+# 예측 모델 공부
+
+선형회귀
+다중선형회귀
+ARIMA
